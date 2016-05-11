@@ -1,0 +1,18 @@
+{
+  "name": "uncannybot",
+  "version": "1.0.0",
+  "description": "weird slack bot is weird.",
+  "main": "index.js",
+  "dependencies": {
+    "nconf": "^0.8.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ednapiranha/uncannybot.git"
+  },
+  "author": "Jen",
+  "license": "BSD"
+}
